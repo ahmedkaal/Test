@@ -1,4 +1,19 @@
 body{
-  color:blue
+  color:blue;
+  font-family: system-ui;
+
+  
 }
 
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    border: 1px solid blueviolet;
+    padding: 1rem;
+    
+}
+ul li{
+    color: blueviolet;
+    font-size: 20px;
+
+}
